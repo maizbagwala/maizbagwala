@@ -20,8 +20,6 @@ Hi there 👋 My name is Maaiz Bagwala
 Mobile App Developer
 ------------------------
 
-[Portfolio Site](https://maaizbagwala.onrender.com/)
-
 ### Languages and Skills
 
 ![Android](https://img.shields.io/badge/android-studio.svg?style=for-the-badge&logo=android&logoColor=white)
